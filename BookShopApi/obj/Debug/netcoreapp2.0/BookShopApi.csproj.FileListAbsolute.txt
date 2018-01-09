@@ -1,0 +1,11 @@
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\bin\Debug\netcoreapp2.0\BookShopApi.deps.json
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\bin\Debug\netcoreapp2.0\BookShopApi.runtimeconfig.json
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\bin\Debug\netcoreapp2.0\BookShopApi.runtimeconfig.dev.json
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\bin\Debug\netcoreapp2.0\BookShopApi.dll
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\obj\Debug\netcoreapp2.0\BookShopApi.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\obj\Debug\netcoreapp2.0\BookShopApi.csproj.CoreCompileInputs.cache
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\obj\Debug\netcoreapp2.0\BookShopApi.AssemblyInfoInputs.cache
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\obj\Debug\netcoreapp2.0\BookShopApi.AssemblyInfo.cs
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\bin\Debug\netcoreapp2.0\BookShopApi.pdb
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\obj\Debug\netcoreapp2.0\BookShopApi.dll
+c:\users\mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi\obj\Debug\netcoreapp2.0\BookShopApi.pdb

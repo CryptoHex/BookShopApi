@@ -1,0 +1,16 @@
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\BookShopApi.Tests.deps.json
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\BookShopApi.Tests.runtimeconfig.json
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\BookShopApi.Tests.runtimeconfig.dev.json
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\BookShopApi.Tests.dll
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\BookShopApi.Tests.pdb
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\obj\Debug\netcoreapp2.0\BookShopApi.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\obj\Debug\netcoreapp2.0\BookShopApi.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\obj\Debug\netcoreapp2.0\BookShopApi.Tests.AssemblyInfoInputs.cache
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\obj\Debug\netcoreapp2.0\BookShopApi.Tests.AssemblyInfo.cs
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\obj\Debug\netcoreapp2.0\BookShopApi.Tests.dll
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\obj\Debug\netcoreapp2.0\BookShopApi.Tests.pdb
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\BookShopApi.dll
+C:\Users\Mario\documents\visual studio 2017\Projects\BookShopApi\BookShopApi.Tests\bin\Debug\netcoreapp2.0\BookShopApi.pdb
